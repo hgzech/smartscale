@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "smartscale"
+  site-url: "https://hgzech.github.io/smartscale"
+  description: "A project to create a smarter system to track fitness and weight."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/smartscale"
